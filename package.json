@@ -2,7 +2,8 @@
   "name": "wanda",
   "version": "1.0.0",
   "description": "Wanda is a smaller React project bundling with Parceljs.",
-  "main": "index.js",
+  "main": "src/index.js",
+  "private": true,
   "scripts": {
     "start": "parcel src/index.html --open",
     "build": "parcel build src/index.html"
@@ -14,8 +15,15 @@
     "starter-kit",
     "sass"
   ],
-  "author": "mickceb",
+  "author": {
+    "name": "mickceb",
+    "url": "https://github.com/mickceb"
+  },
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mickceb/wanda"
+  },
   "devDependencies": {
     "@babel/core": "^7.12.13",
     "@babel/preset-env": "^7.12.13",
@@ -34,5 +42,10 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0"
-  }
+  },
+  "engines": {
+    "node": ">= 14.15.4",
+    "npm": ">= 7.4.3"
+  },
+  "browserslist": "> 0.25%, not dead"
 }
