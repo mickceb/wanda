@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 function About() {
   return (
@@ -7,10 +7,9 @@ function About() {
         <div className="container has-text-centered">
           <h1 className="title is-1">About</h1>
         </div>
-
       </div>
     </section>
-  )
+  );
 }
 
-export default About
+export default About;
