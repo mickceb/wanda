@@ -1,4 +1,4 @@
-# ☄ Wanda 
+# ![logo](https://github.com/mickceb/wanda/blob/main/src/assets/images/favicon.png) Wanda 
 ## A smaller React project bundling with Parcel.js
 
 Create React App is a easiest way to start a new React Project, but it sure does install a loads of stuff. Many. Too many.
