@@ -5,12 +5,11 @@ Create React App is a easiest way to start a new React Project, but it sure does
 
 Wanda is a starter kit bundle with (Parcel.js)[https://fr.parceljs.org/], the Blazing fast, zero configuration web application bundler. I've created it because I was tired of waiting for webpack. In comparaison, Parcel takes a little tens of seconds to bundle the files.
 
+First :
 ```
 git clone https://github.com/mickceb/wanda.git
 ```
-```
-npm install
-```
+Then :
 ```
 npm start
 ```
