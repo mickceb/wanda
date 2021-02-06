@@ -1,7 +1,7 @@
 # React Parcel Bundler
 
 ```
-git clone 
+git clone https://github.com/mickceb/react-with-parcel
 ```
 ```
 npm install
