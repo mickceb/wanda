@@ -13,4 +13,10 @@ Then :
 ```
 npm start
 ```
+
+To change the git repo :
+```
+git remote set-url origin [git@your.git.repo.example.com/user/repo.git]
+```
+
 Happy to hacking the web 🤩
